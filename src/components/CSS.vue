@@ -118,8 +118,8 @@ a {
   height: 0px;
   border-radius: 100%;
   border: red solid 4px;
-  left: 178px;
-  top: 10px;
+  left: 172px;
+  top: 12px;
 }
 </style>
 <template>
